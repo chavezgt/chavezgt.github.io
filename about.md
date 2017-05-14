@@ -28,4 +28,4 @@ messy...).
 
 ### Contact me
 
-[chavezgt95@gmail.com](mailto:email@domain.com)
+[chavezgt95@gmail.com](mailto:chavezgt95@gmail.com)
